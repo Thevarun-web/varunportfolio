@@ -1,6 +1,9 @@
 .home{
     display: flex;
-    background-image: url(./src/Imagrs/varun.jpeg) no-repeat center;
+    background-image: url('../Images/varung.jpeg');
+    background-repeat: no-repeat;   
+    background-position: center;
+
     height: 100vh;
     color: #fff;
     min-height: 500px;
